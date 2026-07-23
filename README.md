@@ -62,43 +62,19 @@ The project uses three datasets.
 
 ---
 
-# 🔄 Analysis Workflow
+## 🔄 Project Workflow
 
-```text
-Load Data
-     │
-     ▼
-Data Exploration
-     │
-     ▼
-Data Cleaning
-     │
-     ▼
-Data Validation
-     │
-     ▼
-Exploratory Data Analysis (EDA)
-     │
-     ▼
-Descriptive Statistics
-     │
-     ▼
-Customer Behavior Analysis
-     │
-     ▼
-Outlier Detection
-     │
-     ▼
-Customer Segmentation
-     │
-     ▼
-Business Insights
-     │
-     ▼
-Recommendations
-```
+| Stage | Description |
+|--------|-------------|
+| 📥 Data Loading | Import datasets |
+| 🔎 Data Exploration | Understand structure and quality |
+| 🧹 Data Cleaning | Handle missing values and invalid records |
+| 📊 Exploratory Analysis | Analyze usage behavior |
+| 📈 Visualization | Identify trends and patterns |
+| 🚨 Outlier Detection | Detect atypical customers |
+| 👥 Customer Segmentation | Group customers by age and behavior |
+| 💼 Business Insights | Generate actionable recommendations |
 
----
 
 # 🔍 Exploratory Data Analysis
 
