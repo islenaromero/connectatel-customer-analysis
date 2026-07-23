@@ -195,18 +195,6 @@ Run all notebook cells to reproduce the complete analysis.
 
 ---
 
-# 📌 Future Improvements
-
-Potential enhancements for future versions include:
-
-- Interactive dashboards with Power BI.
-- Predictive churn modeling.
-- Customer Lifetime Value (CLV) estimation.
-- Customer clustering using Machine Learning.
-- Automated reporting.
-
----
-
 # 👩‍💻 About the Author
 
 ## Islena Romero
